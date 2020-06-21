@@ -39,9 +39,9 @@ airbnb %>%
 
 ```{r}
 airbnb %>% 
-  count(neighbourhood) %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
-  plot_ly(x = ~neighbourhood, y = ~n, color = ~neighbourhood, type = "bar")
+  count(neighbourhood_group) %>% 
+  mutate(neighbourhood = fct_reorder(neighbourhood_group, n)) %>% 
+  plot_ly(x = ~neighbourhood_group, y = ~n, color = ~neighbourhood_group, type = "bar")
 ```
 
 Column {data-width=500}
