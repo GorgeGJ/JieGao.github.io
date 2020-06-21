@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Duzhi's website"
+title: "Welcome to GJ's website"
 output: 
   html_document:
     
@@ -11,7 +11,7 @@ editor_options:
 
 ### About me
 
-<img src="image/IMG_9529.JPG" style="width: 200px; float: top">
+<img src="IMG_2658.JPG" style="width: 300px; float: left">  
 
 My name is Duzhi Zhao. I am from Shanghai, China and currently a first-year master student studying M.S Biostatistics at Columbia University Mailman School of Public Health. What brings me to this wonderful department is my passion in developing deeper understandings of neurological diseases (Alzheimer's and Parkinson's) and providing reasonable therapeutic plans from a statistical perspective.
 
