@@ -9,7 +9,7 @@ navbar:
       href: profession.html
     - text: Projects
       menu:
-      - text: "Instacart Dashboard"
+      - text: "NYC Airbnb Dashboard"
         href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<dz2426@cumc.columbia.edu>
@@ -19,4 +19,4 @@ navbar:
       href: http://github.com/dz2426/
 output:
   html_document:
-    theme: simplex
+    theme: flatly
