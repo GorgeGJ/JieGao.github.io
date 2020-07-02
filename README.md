@@ -1,3 +1,3 @@
 # JieGao.github.io
 
-MY PORTFOLIO
+MY Professional PORTFOLIO website
